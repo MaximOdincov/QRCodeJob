@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QRCodeJob</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="studet_all_teacher_password_1">Studet - all, teacher password - 1</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="your_login">Your login</string>
+    <string name="your_password">Your password</string>
+    <string name="login">Login</string>
+    <string name="student">STUDENT</string>
+    <string name="teacher">TEACHER</string>
+</resources>
